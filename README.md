@@ -1,6 +1,7 @@
 # teaching-machine
 Teaching Machine Projects
 
+Follow me on youtube https://www.youtube.com/channel/UC8VA68SP2esO2u1ASEVXCPg?view_as=subscriber
 
 Hi guys I built live dashboard with dash
 
